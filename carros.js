@@ -13,7 +13,7 @@ let total = 0;
 
 for (const carro of carros) {
   total += carro.preco;
-}
+}o
 
 // converte o número para padrão monetário
 
