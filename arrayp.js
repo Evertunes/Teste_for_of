@@ -47,3 +47,9 @@ const valorFinal = Number(total).toLocaleString("pt-BR", {
   });
 
 console.log(`O valor total dos produtos é: ${valorFinal}`);
+
+//Organiza o array em ordem alfabética
+const fruits = ["Banana", "Orange", "Apple", "Kiwi"];
+fruits.sort();
+
+console.log(fruits)
