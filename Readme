@@ -1,0 +1,6 @@
+--------------- carros.js --------------------------
+Recebe uma lista de carros com marca, preço e valor,
+calcula o valor total dos carros,
+no final converte o valor para padrão monetário
+---------------------//-----------------------------
+
